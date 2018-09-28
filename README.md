@@ -1,2 +1,2 @@
 # hello-world
-A future web developer
+A future web developer, now studying informatic engineering 
