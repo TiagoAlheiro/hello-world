@@ -1,2 +1,2 @@
 # hello-world
-A future web developer
+A technology enthusiast and a future software developer
